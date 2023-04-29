@@ -60,16 +60,6 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
-# add a commit message with the author's name
-        # and a timestamp
-      - name: Commit and push changes
-        run: |
-          git config user.name "William"
-          git config user.email "william@cookstory.life"
-          git add .
-          git commit -m "Auto-deployed by GitHub Actions: $(date '+%Y-%m-%d %H:%M:%S')"
-          git push origin main
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
