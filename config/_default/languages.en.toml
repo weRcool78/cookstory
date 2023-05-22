@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
    name = "Cook Story"
    image = "img/logo.png"
-   headline = "A nice hobby-ey website with stuff"
-   bio = "A little bit about you"
+   headline = "A digital scrapbook by William & Emily Cook"
+   bio = "A story about the Cooks"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

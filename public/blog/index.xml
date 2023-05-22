@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Cookstory</title>
+    <link>https://web.cookstory.life/blog/</link>
+    <description>Recent content in Blogs on Cookstory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 01 May 2023 17:58:06 -0500</lastBuildDate><atom:link href="https://web.cookstory.life/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://web.cookstory.life/blog/firstpost/</link>
+      <pubDate>Mon, 01 May 2023 17:58:06 -0500</pubDate>
+      
+      <guid>https://web.cookstory.life/blog/firstpost/</guid>
+      <description> This is a new post very cool # this is a list yay yay yes </description>
+    </item>
+    
+  </channel>
+</rss>

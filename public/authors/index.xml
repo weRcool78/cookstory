@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors Taxonomy Listing Example on Cookstory</title>
+    <link>https://web.cookstory.life/authors/</link>
+    <description>Recent content in Authors Taxonomy Listing Example on Cookstory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 01 May 2023 17:58:06 -0500</lastBuildDate><atom:link href="https://web.cookstory.life/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>William Cook</title>
+      <link>https://web.cookstory.life/authors/william/</link>
+      <pubDate>Mon, 01 May 2023 17:58:06 -0500</pubDate>
+      
+      <guid>https://web.cookstory.life/authors/william/</guid>
+      <description>A Cool Guy</description>
+    </item>
+    
+    <item>
+      <title>Emily Cook</title>
+      <link>https://web.cookstory.life/authors/emily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.cookstory.life/authors/emily/</guid>
+      <description>A Cool Girl</description>
+    </item>
+    
+  </channel>
+</rss>

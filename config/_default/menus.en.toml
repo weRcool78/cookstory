@@ -11,29 +11,58 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "blog"
-  weight = 10
+  name = "WE"
+  weight = 5
 
 [[main]]
- name = "Recipes"
- pageRef = "recipes"
- weight = 10
+  name = "Stories"
+  parent = "WE"
+  pageRef = "stories"
+  weight = 5
 
-[[main]]
-  name = "Library"
-  pageRef = "library"
-  weight = 10
-
+# [[main]]
+#   name = "Recipes"
+#   parent = "WE"
+#   pageRef = "recipes"
+#   weight = 10
+# 
+# [[main]]
+#   name = "Library"
+#   parent = "WE"
+#   pageRef = "library"
+#   weight = 15
+# 
+# [[main]]
+#  name = "William"
+#  weight = 10
+# 
+# [[main]]
+#   name = "Tech"
+#   parent = "William"
+#   pageRef = "tech"
+#   weight = 15
+# 
+# [[main]]
+#   name = "Emily"
+#   weight = 15
+# 
+# [[main]]
+#   name = "Reflections"
+#   parent = "Emily"
+#   pageRef = "reflect"
+#   weight = 20
+# 
+# [[main]]
+#   name = "Fiction"
+#   parent = "Emily"
+#   pageRef = "fiction"
+#   weight = 15
+# 
 #[[main]]
 #  name = "Parent"
 #  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+
 
 #[[main]]
 #  name = "example sub-menu 2"
