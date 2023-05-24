@@ -20,11 +20,11 @@
   pageRef = "stories"
   weight = 5
 
-# [[main]]
-#   name = "Recipes"
-#   parent = "WE"
-#   pageRef = "recipes"
-#   weight = 10
+ [[main]]
+   name = "Recipes"
+   parent = "WE"
+   pageRef = "recipes"
+   weight = 10
 # 
 # [[main]]
 #   name = "Library"
