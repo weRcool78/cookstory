@@ -32,15 +32,15 @@
 #   pageRef = "library"
 #   weight = 15
 # 
-# [[main]]
-#  name = "William"
-#  weight = 10
-# 
-# [[main]]
-#   name = "Tech"
-#   parent = "William"
-#   pageRef = "tech"
-#   weight = 15
+ [[main]]
+  name = "William"
+  weight = 10
+ 
+ [[main]]
+   name = "Tech"
+   parent = "William"
+   pageRef = "tech"
+   weight = 15
 # 
 # [[main]]
 #   name = "Emily"
