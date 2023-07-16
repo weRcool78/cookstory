@@ -19,7 +19,7 @@ Since I don't have the patience to redo it all over again. I am just going to su
 
 You could try writing down your passwords on a notebook, but then you probably want to leave that thing home. And what if you lose it under your pile of clothes on the desk? You could keep your passwords on a note app on your phone but chances are your note app isn't encrypted. So why not use a password manager? Bitwarden has bank level security. If you trust your money with a bank you can trust your passwords with Bitwarden. Bitwarden is open source and has their software publicly audited frequently. There are other password managers of course, Lastpass and Dashlane come to mind. Lastpass has had data breaches in the past while Bitwarden has not. Their open source model has been holding up pretty well. I won't rattle on too much about security because there are many places online that go through it much more detailed then I ever could. So I well leave a link with a more in depth review between last pass and Bitwarden as well as Bitwardens page to their security if you want more then a surface level summary.
 
-[Bitwarden vs Lastpss](https://www.safetydetectives.com/blog/lastpass-vs-bitwarden-is-an-open-source-password-manager-better/)
+[Bitwarden vs Lastpass](https://www.safetydetectives.com/blog/lastpass-vs-bitwarden-is-an-open-source-password-manager-better/)
 
 [Bitwarden Security](https://bitwarden.com/help/bitwarden-security-white-paper/)
 
