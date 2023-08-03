@@ -31,6 +31,6 @@ With Bitwarden you can randomly generate very strong and complex passwords, user
 
 The main paid plans for bitwarden are for companies so it's free for us individual people to use. You do have the option to pay less then 1 dollar a month for certain perks like security reports and advanced 2FA. For the average use it's not necessary but it's nice that they have the option.
 
-If you like the idea of hosting your own passwords for extra control, you can do that too with bitwarden, it's open source after all and you install your own instance.
+If you like the idea of hosting your own passwords for extra control, you can do that too with bitwarden, it's open source after all and you can install your own instance on a server of your own.
 
-That's enough yammering, get Bitwarden already.
+Even if you don't get bitwarden after all my yammering, I hope you found this article usefull!
