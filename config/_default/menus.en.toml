@@ -41,16 +41,16 @@
    parent = "William"
    pageRef = "tech"
    weight = 15
-# 
-# [[main]]
-#   name = "Emily"
-#   weight = 15
-# 
-# [[main]]
-#   name = "Reflections"
-#   parent = "Emily"
-#   pageRef = "reflect"
-#   weight = 20
+ 
+ [[main]]
+   name = "Emily"
+   weight = 15
+ 
+ [[main]]
+   name = "Reviews"
+   parent = "Emily"
+   pageRef = "Reviews"
+   weight = 20
 # 
 # [[main]]
 #   name = "Fiction"
